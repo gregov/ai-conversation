@@ -9,6 +9,10 @@ Fonctionnement :
 - Les deux modèles débattent, chacun challengeant le raisonnement de l'autre.
 - Le débat reste courtois et argumenté.
 
+## Prompt initial utilisé pour créér ce projet dans VSCode avec le plugin Gemini
+
+Cree moi un projet qui va utiliser l'api de gemini. Je voudrais deux instances de model. Ce programme va me demander un sujet et les deux modeles vont debattre dessus. Le premier model donne un point de vue conservateur, et le second un point de vue progressiste. Chaque modele doit challenger le raisonnement de l'autre. La conversation doit rester courtoise.
+
 ## Exemple de debat
 
 Bienvenue dans Gemini Debate Bot !
