@@ -184,10 +184,11 @@ Débat terminé. Merci d'avoir utilisé Gemini Debate Bot !
 
 ## Prérequis
 - Installer les dépendances :
+  ```bash
     python3 -m venv .venv
     source .venv/bin/activate
     python3 -m pip install -r requirements.txt
-
+```
 - Obtenir une clé API Gemini et la renseigner dans la variable d'environnement `GEMINI_API_KEY` (voir `.env.example`).
 
 ## Lancer le programme
